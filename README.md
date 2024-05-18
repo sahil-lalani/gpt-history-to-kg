@@ -1,6 +1,6 @@
 # ChatGPT History → Knowledge Graph
 
-Credits: Varun Shenoy, [GraphGPT]([url](https://github.com/varunshenoy/GraphGPT))
+Credits: Varun Shenoy, [GraphGPT](https://github.com/varunshenoy/GraphGPT)
 
 ## Setup
 
